@@ -60,3 +60,4 @@ buck-out/
 
 # misc
 .env
+android/app/build.gradle

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120803186871",
+    "firebase_url": "https://pizza-corner-database.firebaseio.com",
+    "project_id": "pizza-corner-database",
+    "storage_bucket": "pizza-corner-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120803186871:android:20ee16870d8de1c8ea1532",
+        "android_client_info": {
+          "package_name": "com.pizzacornernative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120803186871-qber2u72772r1dodl0dc6lus8ap7iv0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwDac1SmN70ad2RcZcqciZ82Jauvtf5HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120803186871-qber2u72772r1dodl0dc6lus8ap7iv0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
